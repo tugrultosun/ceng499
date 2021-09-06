@@ -1,0 +1,441 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2020.5.5)  22 DEC 2020 21:05
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2018-12-01>
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) ("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/11/13 v2.4j Tabular extension package (FMi)
+\col@sep=\dimen103
+\ar@mcellbox=\box27
+\extrarowheight=\dimen104
+\NC@list=\toks16
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box28
+)
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.st
+y"
+\wrapoverhang=\dimen105
+\WF@size=\dimen106
+\c@WF@wrappedlines=\count88
+\WF@box=\box29
+\WF@everypar=\toks17
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
+sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip45
+\multirow@cntb=\count89
+\multirow@dima=\skip46
+\bigstrutjot=\dimen107
+) ("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tabu\tabu.sty"
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/varwidth\varwidth.
+sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box30
+\sift@deathcycles=\count90
+\@vwid@loff=\dimen108
+\@vwid@roff=\dimen109
+)
+\c@taburow=\count91
+\tabu@nbcols=\count92
+\tabu@cnt=\count93
+\tabu@Xcol=\count94
+\tabu@alloc=\count95
+\tabu@nested=\count96
+\tabu@target=\dimen110
+\tabu@spreadtarget=\dimen111
+\tabu@naturalX=\dimen112
+\tabucolX=\dimen113
+\tabu@Xsum=\dimen114
+\extrarowdepth=\dimen115
+\abovetabulinesep=\dimen116
+\belowtabulinesep=\dimen117
+\tabustrutrule=\dimen118
+\tabu@thebody=\toks18
+\tabu@footnotes=\toks19
+\tabu@box=\box31
+\tabu@arstrutbox=\box32
+\tabu@hleads=\box33
+\tabu@vleads=\box34
+\tabu@cellskip=\skip47
+)
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen119
+\Gin@req@width=\dimen120
+) (report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen121
+\scratchbox=\box35
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen122
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks22
+)
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\ttosu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+<knn.jpeg, id=1, 794.97pt x 361.35pt>
+File: knn.jpeg Graphic file (type jpg)
+<use knn.jpeg>
+Package pdftex.def Info: knn.jpeg  used on input line 19.
+(pdftex.def)             Requested size: 345.0pt x 156.82207pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 30.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+[1
+
+{C:/Users/ttosu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./knn.jpeg>
+]
+<clustering_images/clustering1obj.png, id=10, 462.528pt x 346.896pt>
+File: clustering_images/clustering1obj.png Graphic file (type png)
+<use clustering_images/clustering1obj.png>
+Package pdftex.def Info: clustering_images/clustering1obj.png  used on input li
+ne 38.
+(pdftex.def)             Requested size: 345.0pt x 258.76335pt.
+<clustering_images/clustering2obj.png, id=12, 462.528pt x 346.896pt>
+File: clustering_images/clustering2obj.png Graphic file (type png)
+<use clustering_images/clustering2obj.png>
+Package pdftex.def Info: clustering_images/clustering2obj.png  used on input li
+ne 40.
+(pdftex.def)             Requested size: 345.0pt x 258.76335pt.
+<clustering_images/clustering3obj.png, id=13, 462.528pt x 346.896pt>
+File: clustering_images/clustering3obj.png Graphic file (type png)
+<use clustering_images/clustering3obj.png>
+Package pdftex.def Info: clustering_images/clustering3obj.png  used on input li
+ne 42.
+(pdftex.def)             Requested size: 345.0pt x 258.76335pt.
+<clustering_images/clustering4obj.png, id=14, 462.528pt x 346.896pt>
+File: clustering_images/clustering4obj.png Graphic file (type png)
+<use clustering_images/clustering4obj.png>
+Package pdftex.def Info: clustering_images/clustering4obj.png  used on input li
+ne 44.
+(pdftex.def)             Requested size: 345.0pt x 258.76335pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 38--46
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--46
+
+ []
+
+[2 <./clustering_images/clustering1obj.png>] [3 <./clustering_images/clustering
+2obj.png> <./clustering_images/clustering3obj.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+<clustering_images/clustering1kmeans.png, id=24, 596.2275pt x 433.62pt>
+File: clustering_images/clustering1kmeans.png Graphic file (type png)
+<use clustering_images/clustering1kmeans.png>
+Package pdftex.def Info: clustering_images/clustering1kmeans.png  used on input
+ line 54.
+(pdftex.def)             Requested size: 345.0pt x 250.9109pt.
+<clustering_images/clustering2kmeans.png, id=25, 596.2275pt x 433.62pt>
+File: clustering_images/clustering2kmeans.png Graphic file (type png)
+<use clustering_images/clustering2kmeans.png>
+Package pdftex.def Info: clustering_images/clustering2kmeans.png  used on input
+ line 56.
+(pdftex.def)             Requested size: 345.0pt x 250.9109pt.
+<clustering_images/clustering3kmeans.png, id=26, 596.2275pt x 433.62pt>
+File: clustering_images/clustering3kmeans.png Graphic file (type png)
+<use clustering_images/clustering3kmeans.png>
+Package pdftex.def Info: clustering_images/clustering3kmeans.png  used on input
+ line 58.
+(pdftex.def)             Requested size: 345.0pt x 250.9109pt.
+<clustering_images/clustering4kmeans.png, id=27, 596.2275pt x 433.62pt>
+File: clustering_images/clustering4kmeans.png Graphic file (type png)
+<use clustering_images/clustering4kmeans.png>
+Package pdftex.def Info: clustering_images/clustering4kmeans.png  used on input
+ line 60.
+(pdftex.def)             Requested size: 345.0pt x 250.9109pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 54--62
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--62
+
+ []
+
+[4 <./clustering_images/clustering4obj.png>] [5 <./clustering_images/clustering
+1kmeans.png> <./clustering_images/clustering2kmeans.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+[6 <./clustering_images/clustering3kmeans.png> <./clustering_images/clustering4
+kmeans.png>]
+<hac_images/data1single.png, id=42, 462.528pt x 346.896pt>
+File: hac_images/data1single.png Graphic file (type png)
+<use hac_images/data1single.png>
+Package pdftex.def Info: hac_images/data1single.png  used on input line 71.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<hac_images/data1complete.png, id=43, 462.528pt x 346.896pt>
+File: hac_images/data1complete.png Graphic file (type png)
+<use hac_images/data1complete.png>
+Package pdftex.def Info: hac_images/data1complete.png  used on input line 71.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<hac_images/data1average.png, id=44, 462.528pt x 346.896pt>
+File: hac_images/data1average.png Graphic file (type png)
+<use hac_images/data1average.png>
+Package pdftex.def Info: hac_images/data1average.png  used on input line 73.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<hac_images/data1centroid.png, id=45, 462.528pt x 346.896pt>
+File: hac_images/data1centroid.png Graphic file (type png)
+<use hac_images/data1centroid.png>
+Package pdftex.def Info: hac_images/data1centroid.png  used on input line 73.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (64.4158pt too wide) in paragraph at lines 69--77
+[][] 
+ []
+
+<hac_images/data2single.png, id=46, 462.528pt x 346.896pt>
+File: hac_images/data2single.png Graphic file (type png)
+<use hac_images/data2single.png>
+Package pdftex.def Info: hac_images/data2single.png  used on input line 83.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<hac_images/data2complete.png, id=47, 462.528pt x 346.896pt>
+File: hac_images/data2complete.png Graphic file (type png)
+<use hac_images/data2complete.png>
+Package pdftex.def Info: hac_images/data2complete.png  used on input line 83.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<hac_images/data2average.png, id=48, 462.528pt x 346.896pt>
+File: hac_images/data2average.png Graphic file (type png)
+<use hac_images/data2average.png>
+Package pdftex.def Info: hac_images/data2average.png  used on input line 85.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<hac_images/data2centroid.png, id=49, 462.528pt x 346.896pt>
+File: hac_images/data2centroid.png Graphic file (type png)
+<use hac_images/data2centroid.png>
+Package pdftex.def Info: hac_images/data2centroid.png  used on input line 85.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (49.4158pt too wide) in paragraph at lines 79--89
+[] 
+ []
+
+[7 <./hac_images/data1single.png> <./hac_images/data1complete.png> <./hac_image
+s/data1average.png> <./hac_images/data1centroid.png>]
+<hac_images/data3single.png, id=58, 462.528pt x 346.896pt>
+File: hac_images/data3single.png Graphic file (type png)
+<use hac_images/data3single.png>
+Package pdftex.def Info: hac_images/data3single.png  used on input line 94.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<hac_images/data3complete.png, id=59, 462.528pt x 346.896pt>
+File: hac_images/data3complete.png Graphic file (type png)
+<use hac_images/data3complete.png>
+Package pdftex.def Info: hac_images/data3complete.png  used on input line 94.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<hac_images/data3average.png, id=60, 462.528pt x 346.896pt>
+File: hac_images/data3average.png Graphic file (type png)
+<use hac_images/data3average.png>
+Package pdftex.def Info: hac_images/data3average.png  used on input line 96.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<hac_images/data3centroid.png, id=61, 462.528pt x 346.896pt>
+File: hac_images/data3centroid.png Graphic file (type png)
+<use hac_images/data3centroid.png>
+Package pdftex.def Info: hac_images/data3centroid.png  used on input line 96.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (49.4158pt too wide) in paragraph at lines 91--100
+[] 
+ []
+
+[8 <./hac_images/data2single.png> <./hac_images/data2complete.png> <./hac_image
+s/data2average.png> <./hac_images/data2centroid.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
+
+ []
+
+<hac_images/data4single.png, id=69, 462.528pt x 346.896pt>
+File: hac_images/data4single.png Graphic file (type png)
+<use hac_images/data4single.png>
+Package pdftex.def Info: hac_images/data4single.png  used on input line 106.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<hac_images/data4complete.png, id=70, 462.528pt x 346.896pt>
+File: hac_images/data4complete.png Graphic file (type png)
+<use hac_images/data4complete.png>
+Package pdftex.def Info: hac_images/data4complete.png  used on input line 106.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<hac_images/data4average.png, id=71, 462.528pt x 346.896pt>
+File: hac_images/data4average.png Graphic file (type png)
+<use hac_images/data4average.png>
+Package pdftex.def Info: hac_images/data4average.png  used on input line 108.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+<hac_images/data4centroid.png, id=72, 462.528pt x 346.896pt>
+File: hac_images/data4centroid.png Graphic file (type png)
+<use hac_images/data4centroid.png>
+Package pdftex.def Info: hac_images/data4centroid.png  used on input line 108.
+(pdftex.def)             Requested size: 185.0079pt x 138.75594pt.
+
+Overfull \hbox (64.4158pt too wide) in paragraph at lines 105--113
+[][] 
+ []
+
+[9 <./hac_images/data3single.png> <./hac_images/data3complete.png> <./hac_image
+s/data3average.png> <./hac_images/data3centroid.png>] [10 <./hac_images/data4si
+ngle.png> <./hac_images/data4complete.png> <./hac_images/data4average.png> <./h
+ac_images/data4centroid.png>] (report.aux) ) 
+Here is how much of TeX's memory you used:
+ 2477 strings out of 492946
+ 38582 string characters out of 3126267
+ 101572 words of memory out of 3000000
+ 6336 multiletter control sequences out of 15000+200000
+ 7587 words of font info for 27 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,11n,25p,319b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/ttosu/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ttosu/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/
+ttosu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pf
+b><C:/Users/ttosu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr17.pfb>
+Output written on report.pdf (10 pages, 635484 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+
